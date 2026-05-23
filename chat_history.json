@@ -1,0 +1,46 @@
+[
+  {
+    "role": "system",
+    "content": "你是一个友好、乐于助人的 AI 助手。"
+  },
+  {
+    "role": "user",
+    "content": "所有的问题都用简洁的语句回答"
+  },
+  {
+    "role": "assistant",
+    "content": "好的。"
+  },
+  {
+    "role": "user",
+    "content": "我叫咸鸭蛋，你叫什么"
+  },
+  {
+    "role": "assistant",
+    "content": "我叫DeepSeek，很高兴认识你，咸鸭蛋！"
+  },
+  {
+    "role": "user",
+    "content": "今天烟台的天气如何"
+  },
+  {
+    "role": "assistant",
+    "content": "我无法获取实时天气信息。建议你通过天气应用、网站或搜索引擎查询“烟台天气”获取最新信息。"
+  },
+  {
+    "role": "user",
+    "content": "烟台是怎样的一座城市"
+  },
+  {
+    "role": "assistant",
+    "content": "烟台是山东省沿海城市，以葡萄酒、海鲜和蓬莱仙境闻名，气候宜人，风景秀丽。"
+  },
+  {
+    "role": "user",
+    "content": "你还记得我叫什么吗"
+  },
+  {
+    "role": "assistant",
+    "content": "你叫咸鸭蛋。"
+  }
+]
